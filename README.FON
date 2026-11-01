@@ -1,0 +1,109 @@
+Release 1.0 7/23/93
+
+This font package contains 4 "Times" TrueType fonts and their corresponding 
+capital (Hoa) version:
+  TienGiang, TienGiang Italic, TienGiang Bold, TienGiang Bold Italic.
+
+These fonts were donated to Viet-Std by GIGISOFT, a Vietnamese commercial
+font vendor. Additional fonts are available for purchase by contacting:
+        GIGISOFT
+        911 E. Colorado Blvd., Floor 3
+        Pasadena, CA 91106
+        USA
+        Phone: 714-730-9105
+
+The fonts use VISCII 1.1 encoding by Viet-Std.
+
+If you use TriChlor tools to generate publications, we will be
+glad to receive a souvenir/friendship copy.
+
+Installation
+============
+1) Erase the old version of these fonts if you have them installed previously.
+   First, click on the "Control" icon, then "ABC" , then when a panel listing
+   the fonts available, select the old font, then select delete. If you
+   don't delete the old font , there is a chance that because of font
+   having the same name, the old font will always get selected.
+   For this font package, look for old fonts with the names:
+          VN-TienGiang
+   then delete those first.
+
+2) Run Windows. Then double click on the Control icon. It will
+   pop up a panel. Looks for the icon "ABC" (for fonts), then
+   double click on this icon. This in turn will pop up another
+   window, with panes showing what fonts currently installed.
+   Click on the "Add" button, then select
+   the directory containing the Vietnamese fonts. The
+   fonts' names will be displayed on a panel. Click on a font
+   name and "OK" to install it. Repeat this procedure for the
+   other font names. Then close the Control window.
+
+3) To use Vietnamese fonts in a Windows application, select
+   the font and use it.
+
+4) To type in Vietnamese for any Windows application, you need the program
+   Winvnkey also by TriChlor.
+   Or generate a VISCII file using vietdos/vnelvis, vps, viet1p6, butviet ...
+   and read in the file. Commercial VN software such as T-Script by TIEN can
+   also read and write in VISCII . Or if you have no access to 8-bit tool,
+   write in Viet-Net/SCV/VIQR style, and use the program viet7to8 to
+   convert it to VISCII.
+   For "Write", make sure you select "No conversion".
+   For Microsoft Word, choose the "Text only" filter.
+   Then select the whole text, and change to Vietnamese fonts.
+   Also see the note about Hoa font below.
+
+5) To print is easy. Just click on print. Any printer supported
+   by Windows will print Vietnamese.
+
+
+
+The HOA (uppercase) fonts
+=========================
+Each typeface comes with 2 fonts, a normal font and a HOA font,
+with the HOA font name ended in H. For example:
+     UHoai   : normal font, both lowercase and uppercase chars.
+     UHoaiH  : HOA font, all uppercase characters.
+
+In order to produce some of the uppercase chars, particularly
+the ones coded in C0 ( A(? A(~ A^~ Y? Y~ Y. ) , you may need
+to switch to the corresponding HOA font for each of the
+typeface. Basically, in the HOA font, all the chars are capital
+(uppercase), so if you type "a?" you will get "A?", or select
+"a?" in the text, and switch to HOA font to get "A?" . The
+reason is Vietnamese has 134 chars, and usable slots are less
+than 128 :-( . VISCII 1.1 has been designed so that all
+lowercase chars and most uppercase chars are usable by 
+most existing software. Some software uses certain Vietnamese
+chars for their internal purpose, most of the time in the
+uppercase area. Therefore, when one wants to produce certain
+uppercase using these software, just switch to HOA font.
+Each font comes with a normal font, and a HOA font to alleviate
+this problem. Normally, the normal font should take care of
+most of your needs.
+
+Have fun writing !
+
+==================
+The TriChlor Group
+==================
+
+We can be reached at:
+ via email : trichlor@haydn.stanford.edu
+ via normal mail:
+    TriChlor 
+    3388 Burgundy Dr.
+    San Jose, CA 95132
+
+VISCII is the 8-bit Vietnamese coding scheme by Viet-Std. For
+more information, contact 
+ via email : viet-std@haydn.stanford.edu
+ via normal mail:
+    Viet-Std
+    1212 Somerset Dr.
+    San Jose, CA 95132
+
+
+
+
+
