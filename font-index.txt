@@ -3299,6 +3299,33 @@ HLinetype.shx
 HLI-O.SHX
 HLI-T.SHX
 HL-LD.SHX
+HLT Admiration Pains.ttf
+HLT Affair.ttf
+HLT Aire Light Pro.ttf
+HLT Anna Clara.ttf
+HLT Aparo.ttf
+HLT AphroditeSlimPro.ttf
+HLT AphroditeSlimStylistic.ttf
+HLT Aquus-Regular.ttf
+HLT bauserif.ttf
+HLT BellissimaScriptPro.ttf
+HLT BicKhamScriptPro_Regular.ttf
+HLT BookeyedSuzanne.ttf
+HLT Boulevai.ttf
+HLT Breathe pro.ttf
+HLT Burgues Script.ttf
+HLT ButterMilk.ttf
+HLT Carpenter Script.ttf
+HLT CL  MissLeGatees-Regularfn.ttf
+HLT Elisa Regular.ttf
+HLT Fall For You.ttf
+HLT Feel Script.ttf
+HLT Festival Script Pro.ttf
+HLT Finura-Roman.ttf
+HLT Fitigraf_s.ttf
+HLT FoglihtenNo04.ttf
+HLT Geotica 2012.ttf
+HLT GiddyupStd.ttf
 HLT Windsong.ttf
 HLTR.SHX
 HLV.SHX
@@ -7402,6 +7429,29 @@ VL_Hillda.otf
 VL_Imogen Agnes Swash.otf
 VL_Imogen Agnes.otf
 VL_Kaleko 105 Round Bold.otf
+VL_Kaleko 105 Round Book.otf
+VL_Kankin.otf
+VL_Michael.otf
+VL_MirellaScript.otf
+VL_Neusa-Regular.otf
+VL_NewParis Headline Regular.otf
+VL_Oswald-Bold.otf
+VL_Oswald-Light.otf
+VL_Piron.ttf
+VL_PlatinusScriptPro.otf
+VL_Quirky Nots.otf
+VL_Reso-Regular.otf
+VL_Salamat.otf
+VL_Sauber Script.otf
+VL_Selfie_Regular.otf
+VL_Selphia.otf
+VL_SIMPLIFICA Typeface.ttf
+VL_Slot.otf
+VL_Stalemate-Regular.ttf
+VL_Tinta-Script.otf
+VL_Tinta-Script-Italic.otf
+VL_WIREONE.otf
+VL_ZagDropsThin.otf
 VLADIMIR.TTF
 VLAOS_.TTF
 VLBRIGHB.TTF
