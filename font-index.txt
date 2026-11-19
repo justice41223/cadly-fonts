@@ -990,6 +990,7 @@ BITCSN__.TTF
 BITMAP_W.TTF
 BK_HCM1Vnromans.shx
 BK_HCM1Vntime.shx
+BK_Vharis.shx
 BKANT.TTF
 BKM.SHX
 BKM-B.SHX
@@ -1635,6 +1636,7 @@ degrassi.ttf
 DEREK_H.TTF
 DESDEMON.TTF
 dgnlstyle.shx
+dgnlstyle-duongdc.shx
 dgnlstyle-lstyle.shx
 DIEN.SHX
 DIENASTY.TTF
@@ -1977,6 +1979,7 @@ flowdeco.ttf
 floydian.ttf
 FMISR.SHX
 FMISR-SL.SHX
+FmSimple.shx
 FNASKH2.SHX
 FOFI.SHX
 FOKAD.SHX
@@ -3078,6 +3081,7 @@ herbert.ttf
 HERSHL_H.TTF
 HFL.SHX
 hgcadhz.shx
+hgrsmp_0.TTF
 Highguard  New.ttf
 Highguard.ttf
 himalaya.ttf
@@ -5716,6 +5720,7 @@ utsaahb.ttf
 utsaahbi.ttf
 utsaahi.ttf
 uv-abc.shx
+UV-abc-1.shx
 UVNAiCap_B.TTF
 UVNAiCap_R.TTF
 UVNAiCapNang.TTF
@@ -6930,6 +6935,7 @@ VN_BK1.SHX
 VN_LITE.SHX
 Vn_new.shx
 VN_NTIM0.TTF
+VN_UNI.shx
 VN_VNI.SHX
 VN1.SHP
 VN1.SHX
@@ -7537,6 +7543,8 @@ Vni 29 BrushMe.ttf
 Vni 30 Shishoni Brush.ttf
 vni.common.VALLERGO.ttf
 vni.common.VARISON.ttf
+vni.common.VAVON.ttf
+vni.common.VCOMMERC.ttf
 vni.common.VHELVCI.ttf
 VNI_THUPHAP.TTF
 VNIA____.PFB
@@ -8275,8 +8283,10 @@ VNTIME1.SHX
 VNTIMEB.TTF
 VNTIMEB_.TTF
 VNTIMEB_0.TTF
+vntimebi.shx
 VNTIMEBI.TTF
 vntimebig.shx
+Vntimebi-v.shx
 VNTIMED.SHX
 VNTIMEH.SHX
 VNTIMEH_.PFB
@@ -8286,6 +8296,7 @@ VNTIMEI.TTF
 VNTIMEI_.TTF
 VNTIMEI_0.TTF
 vntimeibig.shx
+Vntimei-v.shx
 VNTIMES.SHX
 VNTIMESR.TTF
 VNTIMI__.PFB
