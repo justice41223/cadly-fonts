@@ -1,7 +1,3 @@
-"\320\223\320\236\320\241\320\242 \320\277\321\200\321\217\320\274\320\276\320\271.shx"
-"\320\223\320\276\321\201\321\202 \320\277\321\200\321\217\320\274\320\276\320\271big.shx"
-"\321\210\321\200\320\270\321\204\321\202 \320\224-431.shx"
-"\321\210\321\200\320\270\321\204\321\202.shx"
 .VnAvantH.ttf
 @extfont2.shx
 __phatADVENT2.ttf
@@ -254,12 +250,14 @@ Ah1.shx
 Ah2.shx
 AHRAM.SHX
 ahronbd.ttf
+AIGDT.ttf
 AIGDT___.TTF
 air_mitalic.ttf
 AIRCUT.TTF
 airmill_o.ttf
 AIRSTREA.TTF
 akbar.ttf
+akronism.ttf
 A-KUFI.SHX
 A-KUFI2.SHX
 A-KUFI-S.SHX
@@ -309,6 +307,7 @@ AM___.TTF
 AM____11.TTF
 A-MADINA.SHX
 AMANO___.TTF
+amazone.ttf
 amazonen.ttf
 AMDT_Symbols.ttf
 AMDTSymbols.shx
@@ -374,6 +373,7 @@ Annifont.ttf
 ANSI_SYMBOLS.shx
 ANTIQB.SHX
 ANTIQI.SHX
+antique.ttf
 ANTQUAB.TTF
 ANTQUABI.TTF
 ANTQUAI.TTF
@@ -721,10 +721,28 @@ arrusi.ttf
 arrusn.ttf
 ARSTENCL.SHX
 ART.PFB
+Artifakt Element Black Italic.ttf
+Artifakt Element Black.ttf
 Artifakt Element Bold Italic.ttf
 Artifakt Element Bold.ttf
+Artifakt Element Book Italic.ttf
+Artifakt Element Book.ttf
+Artifakt Element Hair Italic.ttf
+Artifakt Element Hair.ttf
+Artifakt Element Heavy Italic.ttf
+Artifakt Element Heavy.ttf
 Artifakt Element Italic.ttf
+Artifakt Element Light Italic.ttf
+Artifakt Element LIght.ttf
+Artifakt Element Medium Italic.ttf
+Artifakt Element Medium.ttf
 Artifakt Element Regular.ttf
+Artifakt Element Thin Italic.ttf
+Artifakt Element Thin.ttf
+ArtifaktElementOfc-Bold.ttf
+ArtifaktElementOfc-BoldItalic.ttf
+ArtifaktElementOfc-Italic.ttf
+ArtifaktElementOfc-Regular.ttf
 ARTIST.SHX
 AS.SHX
 AS_SYM.SHX
@@ -816,6 +834,10 @@ BANMEB.TTF
 BANMEN.TTF
 BAOLOC.TTF
 B-ARAB1A.SHX
+Barlow-Black.ttf
+Barlow-BlackItalic.ttf
+Barlow-Bold.ttf
+Barlow-BoldItalic.ttf
 BarlowCondensed-Black.ttf
 BarlowCondensed-BlackItalic.ttf
 BarlowCondensed-Bold.ttf
@@ -834,6 +856,20 @@ BarlowCondensed-SemiBold.ttf
 BarlowCondensed-SemiBoldItalic.ttf
 BarlowCondensed-Thin.ttf
 BarlowCondensed-ThinItalic.ttf
+Barlow-ExtraBold.ttf
+Barlow-ExtraBoldItalic.ttf
+Barlow-ExtraLight.ttf
+Barlow-ExtraLightItalic.ttf
+Barlow-Italic.ttf
+Barlow-Light.ttf
+Barlow-LightItalic.ttf
+Barlow-Medium.ttf
+Barlow-MediumItalic.ttf
+Barlow-Regular.ttf
+Barlow-SemiBold.ttf
+Barlow-SemiBoldItalic.ttf
+Barlow-Thin.ttf
+Barlow-ThinItalic.ttf
 barmeneb.ttf
 BARRY_H.TTF
 BASEET.SHX
@@ -892,6 +928,24 @@ BERRY_H.TTF
 berthosi.ttf
 bethhandregular.ttf
 BETTY_H.TTF
+BeVietnamPro-Black.ttf
+BeVietnamPro-BlackItalic.ttf
+BeVietnamPro-Bold.ttf
+BeVietnamPro-BoldItalic.ttf
+BeVietnamPro-ExtraBold.ttf
+BeVietnamPro-ExtraBoldItalic.ttf
+BeVietnamPro-ExtraLight.ttf
+BeVietnamPro-ExtraLightItalic.ttf
+BeVietnamPro-Italic.ttf
+BeVietnamPro-Light.ttf
+BeVietnamPro-LightItalic.ttf
+BeVietnamPro-Medium.ttf
+BeVietnamPro-MediumItalic.ttf
+BeVietnamPro-Regular.ttf
+BeVietnamPro-SemiBold.ttf
+BeVietnamPro-SemiBoldItalic.ttf
+BeVietnamPro-Thin.ttf
+BeVietnamPro-ThinItalic.ttf
 bgothl.ttf
 bgothm.ttf
 BHS.SHX
@@ -912,6 +966,7 @@ BickhamScriptPro-Semibold.otf
 BICKLYSC.TTF
 BIENHOA.TTF
 BIFOCLHH.SHX
+bigapple.ttf
 bigfont.shx
 BIGFONT1.SHX
 bigmisterc.ttf
@@ -1281,6 +1336,8 @@ CICVnarial.ttf
 CICVNARIALB.ttf
 CICVNARIALI.ttf
 CIMPLEX.SHX
+circle.ttf
+circle3d.ttf
 CIRCUIT.PFB
 CIRCUIT.SHX
 cityb___.ttf
@@ -1675,6 +1732,10 @@ DTTIMESI.TTF
 DTUMBREL.TTF
 DTUNIVER.TTF
 DTZURCAL.TTF
+DUBAI-BOLD.TTF
+DUBAI-LIGHT.TTF
+DUBAI-MEDIUM.TTF
+DUBAI-REGULAR.TTF
 DUCMY.TTF
 DUKEPLUS.TTF
 DUNN_H.TTF
@@ -1911,6 +1972,8 @@ FKG-O.SHX
 FKG-T.SHX
 FLEURSCR.TTF
 FLORA_H.TTF
+floral.ttf
+flowdeco.ttf
 floydian.ttf
 FMISR.SHX
 FMISR-SL.SHX
@@ -2713,6 +2776,7 @@ GDT.SHX
 GDT_____.SHX
 gdt_____.ttf
 GECKO.TTF
+geditxt.shx
 GEN.SHX
 gen_eng.shx
 genbold.shx
@@ -3013,6 +3077,7 @@ HEOMAY.TTF
 herbert.ttf
 HERSHL_H.TTF
 HFL.SHX
+hgcadhz.shx
 Highguard  New.ttf
 Highguard.ttf
 himalaya.ttf
@@ -3166,6 +3231,8 @@ HZXK.SHX
 HZXY.SHX
 HZZY.SHX
 I_GOTHIC.SHX
+IBMPlexSans[wdth,wght].ttf
+IBMPlexSans-Italic[wdth,wght].ttf
 IC-complex.shx
 ic-dim.shx
 ic-gdt.SHX
@@ -3201,6 +3268,9 @@ INK'B___.TTF
 inkburrow.ttf
 Inkfree.ttf
 Insert your name here.ttf
+intecad.shx
+Inter[opsz,wght].ttf
+Inter-Italic[opsz,wght].ttf
 INTERNATIONALPLAYBOY.ttf
 INTHCITY.TTF
 INTL_ENGINEERING.shx
@@ -3559,6 +3629,7 @@ LetterGothicStd.otf
 LetterGothicStd-Bold.otf
 LetterGothicStd-BoldSlanted.otf
 LetterGothicStd-Slanted.otf
+Lexend[wght].ttf
 LFAX.TTF
 LFAXD.TTF
 LFAXDI.TTF
@@ -3712,6 +3783,7 @@ MICRO.SHX
 MICROG.SHX
 MICROS.SHX
 micross.ttf
+microsslv.ttf
 MILITARY.TTF
 MILITID.TTF
 Millhouse.ttf
@@ -3874,6 +3946,8 @@ MTPROXYC.TTF
 MTPROXYE.TTF
 MTSORTS.TTF
 MTSORTS2.TTF
+Mulish[wght].ttf
+Mulish-Italic[wght].ttf
 MULTPLIL.SHX
 MULTPLNH.SHX
 MULTPLNL.SHX
@@ -3982,6 +4056,7 @@ NIAGSOL.TTF
 NICOLA_H.TTF
 NIGHTCOU.TTF
 NIKN.SHX
+Nirmala.ttc
 Nirmala.ttf
 NirmalaB.ttf
 NirmalaS.ttf
@@ -4015,6 +4090,8 @@ NuevaStd-BoldCondItalic.otf
 NuevaStd-Cond.otf
 NuevaStd-CondItalic.otf
 NuevaStd-Italic.otf
+Nunito[wght].ttf
+Nunito-Italic[wght].ttf
 NUOC.SHX
 NUOC1.SHX
 nuptiasi.ttf
@@ -4050,6 +4127,9 @@ ONEFS___.TTF
 ONYX.TTF
 OpenSans-Bold.ttf
 OpenSans-BoldItalic.ttf
+OpenSansCondensed-Bold.ttf
+OpenSansCondensed-Light.ttf
+OpenSansCondensed-LightItalic.ttf
 OpenSans-ExtraBold.ttf
 OpenSans-ExtraBoldItalic.ttf
 OpenSans-Italic.ttf
@@ -4237,6 +4317,7 @@ Pinyin.ttf
 Piratekeg.ttf
 Piratekeg_i.ttf
 PIZZADUDEFATOUTLINE.ttf
+pkpmeng.shx
 PLACCOND.TTF
 planetbenson.ttf
 PLANETNS.TTF
@@ -4248,6 +4329,8 @@ plastictomatobold.ttf
 PLAYBILL.TTF
 PLAYCRDS.TTF
 PLEIKU.TTF
+PlusJakartaSans[wght].ttf
+PlusJakartaSans-Italic[wght].ttf
 PNOM1O.SHX
 PNOM1S.SHX
 POE.PFB
@@ -4257,6 +4340,24 @@ pokemonsolidnormal.ttf
 polo.ttf
 POORICH.TTF
 PoplarStd.otf
+Poppins-Black.ttf
+Poppins-BlackItalic.ttf
+Poppins-Bold.ttf
+Poppins-BoldItalic.ttf
+Poppins-ExtraBold.ttf
+Poppins-ExtraBoldItalic.ttf
+Poppins-ExtraLight.ttf
+Poppins-ExtraLightItalic.ttf
+Poppins-Italic.ttf
+Poppins-Light.ttf
+Poppins-LightItalic.ttf
+Poppins-Medium.ttf
+Poppins-MediumItalic.ttf
+Poppins-Regular.ttf
+Poppins-SemiBold.ttf
+Poppins-SemiBoldItalic.ttf
+Poppins-Thin.ttf
+Poppins-ThinItalic.ttf
 Popsies.TTF
 postantb.ttf
 POSTER.PFB
@@ -4290,7 +4391,6 @@ PTH__.TTF
 PTH___11.TTF
 PTMARKS.SHX
 punk kid.ttf
-push_fonts.bat
 pvltype.shx
 Pyromane.ttf
 pyxidiumquick.ttf
@@ -4309,6 +4409,7 @@ QUANTANT.SHX
 QUARKNEO.TTF
 quasi.ttf
 QUEST_H.TTF
+Quicksand[wght].ttf
 QUIGLEYW.TTF
 quillscriptnormal.ttf
 QUINHON.TTF
@@ -4548,6 +4649,7 @@ sanssb__.ttf
 SANSSBO_.SHX
 SANSSBO_.TTF
 sansseri.ttf
+SansSerifCollection.ttf
 SANSSO__.SHX
 sansso__.ttf
 SANTQUL.TTF
@@ -4622,6 +4724,7 @@ seguisb.ttf
 seguisbi.ttf
 seguisli.ttf
 seguisym.ttf
+SegUIVar.ttf
 SEMA4.TTF
 SEMAFORE.TTF
 SENT.SHX
@@ -4733,12 +4836,15 @@ simpo.ttf
 simsun.ttc
 SIMSUN.TTF
 simsunb.ttf
+SimsunExtG.ttf
 simyou.ttf
 sinead.ttf
 SINGLE.SHX
 Sitka.ttc
 SitkaB.ttc
 SitkaI.ttc
+SitkaVF.ttf
+SitkaVF-Italic.ttf
 SitkaZ.ttc
 Sivan.shx
 Sivan_m.shx
@@ -5048,9 +5154,6 @@ TCVNWIN.SHX
 TE______.PFB
 TE______.PFM
 TE______.SHX
-teamviewer11.otf
-teamviewer14.otf
-teamviewer15.otf
 TEB_____.PFB
 TEB_____.PFM
 TEB_____.SHX
@@ -5409,6 +5512,201 @@ URM-O.SHX
 URM-T.SHX
 USSR.SHX
 USUZI.TTF
+UTM A&S Graceland.ttf
+UTM A&S Heartbeat.ttf
+UTM A&S Signwriter.ttf
+UTM Agin.ttf
+UTM Aircona.ttf
+UTM Akashi.ttf
+UTM Alba Matter.ttf
+UTM Alberta Heavy.ttf
+UTM Alexander.ttf
+UTM Alpine KT.ttf
+UTM Alter Gothic.ttf
+UTM Ambrose.ttf
+UTM Ambrosia.ttf
+UTM American Sans.ttf
+UTM Americana.ttf
+UTM AmericanaB.ttf
+UTM AmericanaBEx.ttf
+UTM AmericanaItalic.ttf
+UTM Amerika Sans.ttf
+UTM Amherst.ttf
+UTM Androgyne.ttf
+UTM Aptima.ttf
+UTM AptimaBold.ttf
+UTM AptimaBoldItalic.ttf
+UTM AptimaItalic.ttf
+UTM Aquarelle.ttf
+UTM Aristote.ttf
+UTM Arruba.ttf
+UTM Atlas.ttf
+UTM Atlas_Solid.ttf
+UTM Aurora.ttf
+UTM Avenida.ttf
+UTM Avo.ttf
+UTM AvoBold.ttf
+UTM AvoBold_Italic.ttf
+UTM AvoItalic.ttf
+UTM Azuki.ttf
+UTM BanqueB.ttf
+UTM BanqueR.ttf
+UTM Beautiful Caps.ttf
+UTM Bebas.ttf
+UTM Bell.ttf
+UTM Bienvenue.ttf
+UTM Billhead 1910.ttf
+UTM Bitsumishi Pro.ttf
+UTM Brewers KT.ttf
+UTM Brushtip-C.ttf
+UTM BryantLG.ttf
+UTM BryantLG_B.ttf
+UTM Bustamalaka.ttf
+UTM Cabaret.ttf
+UTM Cafeta.ttf
+UTM Camellia F.ttf
+UTM Camellia.ttf
+UTM Candombe.ttf
+UTM Caviar.ttf
+UTM Centur.ttf
+UTM CenturBold.ttf
+UTM CenturBoldItalic.ttf
+UTM CenturItalic.ttf
+UTM Charlemagne.ttf
+UTM Charlotte.ttf
+UTM Chickenhawk.ttf
+UTM ClassizismAntiqua.ttf
+UTM Colossalis.ttf
+UTM Conestoga.ttf
+UTM Cookies.ttf
+UTM Cool Blue.ttf
+UTM Cooper Black.ttf
+UTM Cooper BlackItalic.ttf
+UTM Copperplate.ttf
+UTM CopperplateB.ttf
+UTM Dai Co Viet.ttf
+UTM Davida.ttf
+UTM Dax.ttf
+UTM DaxBold.ttf
+UTM DaxMedium.ttf
+UTM Demian KT.ttf
+UTM Deutsch Gothic.ttf
+UTM Diana.ttf
+UTM Dinh Tran.ttf
+UTM Duepuntozero.ttf
+UTM DuepuntozeroBold.ttf
+UTM EdwardianB.ttf
+UTM EdwardianKT.ttf
+UTM Eremitage.ttf
+UTM Ericsson Capital.ttf
+UTM Erie Black.ttf
+UTM Essendine Caps.ttf
+UTM Essendine CapsBold.ttf
+UTM Facebook.ttf
+UTM FacebookB K&T.ttf
+UTM FacebookK&TBoldItalic.ttf
+UTM FacebookR K&T.ttf
+UTM Faltura.ttf
+UTM Fancy Full.ttf
+UTM Fire House.ttf
+UTM Flamenco.ttf
+UTM Flavour.ttf
+UTM Fleur.ttf
+UTM French Vanilla.ttf
+UTM Futura Extra.ttf
+UTM Gill Sans_Con.ttf
+UTM Gille Classic.ttf
+UTM Gloria.ttf
+UTM God's WordBold.ttf
+UTM God's WordBoldItalic.ttf
+UTM God's WordR.ttf
+UTM God's WordRItalic.ttf
+UTM Gradoo.ttf
+UTM Guanine.ttf
+UTM Habano.ttf
+UTM Hanzel.ttf
+UTM Helve.ttf
+UTM Helve_Italic.ttf
+UTM HelveBold.ttf
+UTM HelveBold_Italic.ttf
+UTM HelvetIns.ttf
+UTM Impact.ttf
+UTM Iron Gothic.ttf
+UTM IsadoraBold.ttf
+UTM IsadoraR.ttf
+UTM Kabel KT.ttf
+UTM Karate.ttf
+UTM Khuccamta.ttf
+UTM Kona KT.ttf
+UTM Libel KT.ttf
+UTM LinotypeZapfino KT.ttf
+UTM Loko.ttf
+UTM Mabella.ttf
+UTM Magnesium.ttf
+UTM Marlboro.ttf
+UTM Micra.ttf
+UTM Mobifone KT.ttf
+UTM Mother.ttf
+UTM Neo Sans Intel.ttf
+UTM Neo Sans Intel_Italic.ttf
+UTM Neo Sans IntelBold.ttf
+UTM Neo Sans IntelBold_Italic.ttf
+UTM Netmuc KT.ttf
+UTM Neutra.ttf
+UTM NGHA 01.ttf
+UTM NguyenHa 02.ttf
+UTM Niagara.ttf
+UTM Nokia Standard.ttf
+UTM Nokia StandardB.ttf
+UTM Nokia.ttf
+UTM Novido.ttf
+UTM Nyala.ttf
+UTM Omni.ttf
+UTM Ong Do Gia.ttf
+UTM Ong Do Tre.ttf
+UTM Pacific Standard.ttf
+UTM Penumbra.ttf
+UTM PenumbraBold.ttf
+UTM Pierre.ttf
+UTM Raven.ttf
+UTM Rockwell.ttf
+UTM Roman Classic.ttf
+UTM Sarah.ttf
+UTM Scriptina KT.ttf
+UTM SeagullBold.ttf
+UTM SeagullBoldItalic.ttf
+UTM Sharnay.ttf
+UTM Showcard.ttf
+UTM Silk Script.ttf
+UTM Sloop 1.ttf
+UTM Soraya.ttf
+UTM Spring.ttf
+UTM Staccato.ttf
+UTM Swashes.ttf
+UTM Swiss 721 Black Condensed.ttf
+UTM Swiss Condensed.ttf
+UTM Swiss CondensedBold.ttf
+UTM Talling.ttf
+UTM TallingBold.ttf
+UTM Tam Le.ttf
+UTM ThanChienTranh.ttf
+UTM Thanh Nhac TL.ttf
+UTM ThuPhap Thien An.ttf
+UTM Times.ttf
+UTM TimesItalic.ttf
+UTM Trajan Pro Bold.ttf
+UTM ViceroyJF.ttf
+UTM Wedding K&T.ttf
+UTM Windsor BT.ttf
+UTM Yen Tu.ttf
+UTM Yves KT.ttf
+UTM Yves KT_Bold.ttf
+UTM Yves KT_Bold_Italic.ttf
+UTM Zebrawood.ttf
+UTM Zirkon.ttf
+UTMFacebookK&TItalic.ttf
+UTMTimesBold Italic.ttf
+UTMTimesBold.ttf
 utopia.ttf
 utopiab.ttf
 utopiabi.ttf
@@ -5418,6 +5716,220 @@ utsaahb.ttf
 utsaahbi.ttf
 utsaahi.ttf
 uv-abc.shx
+UVNAiCap_B.TTF
+UVNAiCap_R.TTF
+UVNAiCapNang.TTF
+UVNAiCapNhe.TTF
+UVNAnhHai_B.TTF
+UVNAnhHai_BI.TTF
+UVNAnhHai_I.TTF
+UVNAnhHai_R.TTF
+UVNAnhHaiNhe_I.TTF
+UVNAnhHaiNhe_R.TTF
+UVNAnhSang.TTF
+UVNBachDang_B.TTF
+UVNBachDang_BI.TTF
+UVNBachDang_I.TTF
+UVNBachDang_R.TTF
+UVNBachDangNang_I.TTF
+UVNBachDangNang_R.TTF
+UVNBachTuyet_B.TTF
+UVNBachTuyet_BI.TTF
+UVNBachTuyet_I.TTF
+UVNBachTuyet_R.TTF
+UVNBachTuyetNang_I.TTF
+UVNBachTuyetNang_R.TTF
+UVNBaiHoc_B.TTF
+UVNBaiHoc_BI.TTF
+UVNBaiHoc_I.TTF
+UVNBaiHoc_R.TTF
+UVNBaiSau_B.TTF
+UVNBaiSau_N.TTF
+UVNBaiSau_Nh.TTF
+UVNBaiSau_R.TTF
+UVNBaLe.TTF
+UVNBanhMi.TTF
+UVNBanTay.TTF
+UVNBayBuom_B.TTF
+UVNBayBuom_N.TTF
+UVNBayBuom_R.TTF
+UVNBayBuomHep_B.TTF
+UVNBayBuomHep_N.TTF
+UVNBayBuomHep_R.TTF
+UVNBenXuan_B.TTF
+UVNBenXuan_R.TTF
+UVNBinhDuong.TTF
+UVNBoQuen.TTF
+UVNBucThu.TTF
+UVNBuiDoi.TTF
+UVNButLong1.TTF
+UVNButLong2.TTF
+UVNCatBien_B.TTF
+UVNCatBien_BI.TTF
+UVNCatBien_I.TTF
+UVNCatBien_R.TTF
+UVNCatBienNhe_I.TTF
+UVNCatBienNhe_R.TTF
+UVNChimBien_B.TTF
+UVNChimBien_R.TTF
+UVNChimBienNang.TTF
+UVNChimBienNhe.TTF
+UVNChinhLuan_B.TTF
+UVNChinhLuan_BI.TTF
+UVNChinhLuan_I.TTF
+UVNChinhLuan_R.TTF
+UVNCHUKY.TTF
+UVNCoDien_B.TTF
+UVNCoDien_R.TTF
+UVNConThuy.TTF
+UVNDaLat_B.TTF
+UVNDaLat_R.TTF
+UVNDamCuoi_H.TTF
+UVNDamCuoi_R.TTF
+UVNDinhHon.TTF
+UVNDoiMoi.TTF
+UVNDungDan.TTF
+UVNDzungDakao.TTF
+UVNGiaDinh_B.TTF
+UVNGiaDinh_BI.TTF
+UVNGiaDinh_I.TTF
+UVNGiaDinh_R.TTF
+UVNGiaDinhHep_B.TTF
+UVNGiaDinhHep_BI.TTF
+UVNGiaDinhHep_I.TTF
+UVNGiaDinhHep_R.TTF
+UVNGiayTrang_B.TTF
+UVNGiayTrang_R.TTF
+UVNGioMay_B.TTF
+UVNGioMay_BI.TTF
+UVNGioMay_I.TTF
+UVNGioMay_R.TTF
+UVNGioMayNhe_I.TTF
+UVNGioMayNhe_R.TTF
+UVNGiongSong_B.TTF
+UVNGiongSong_BI.TTF
+UVNGiongSong_I.TTF
+UVNGiongSong_R.TTF
+UVNHaiBaTrung.TTF
+UVNHaiLong.TTF
+UVNHanViet.TTF
+UVNHoaDao.TTF
+UVNHOAKY.TTF
+UVNHoaTay1.TTF
+UVNHongHa_B.TTF
+UVNHongHa_BI.TTF
+UVNHongHa_I.TTF
+UVNHongHa_R.TTF
+UVNHongHaHep_B.TTF
+UVNHongHaHep_BI.TTF
+UVNHongHaHep_I.TTF
+UVNHongHaHep_R.TTF
+UVNHuongQue_B.TTF
+UVNHuongQue_N.TTF
+UVNHuongQue_R.TTF
+UVNKeChuyen1.TTF
+UVNKeChuyen2.TTF
+UVNKeChuyen3.TTF
+UVNKieu_B.TTF
+UVNKieu_R.TTF
+UVNKyThuat.TTF
+UVNLacLongQuan_B.TTF
+UVNLacLongQuan_R.TTF
+UVNLaXanh_B.TTF
+UVNLaXanh_BI.TTF
+UVNLaXanh_I.TTF
+UVNLaXanh_R.TTF
+UVNLYDO_.TTF
+UVNMangCau_B.TTF
+UVNMangCau_BI.TTF
+UVNMangCau_I.TTF
+UVNMangCau_R.TTF
+UVNMangCauNang_I.TTF
+UVNMangCauNang_R.TTF
+UVNMangTre.TTF
+UVNMauTim1.TTF
+UVNMauTim2.TTF
+UVNMayChuP_B.TTF
+UVNMayChuP_BI.TTF
+UVNMayChuP_I.TTF
+UVNMayChuP_R.TTF
+UVNMinhMap.TTF
+UVNMoiHong.TTF
+UVNMotMoi.TTF
+UVNMuaThu.TTF
+UVNMucCham.TTF
+UVNNguyenDu.TTF
+UVNNhan_B.TTF
+UVNNhan_BI.TTF
+UVNNhan_I.TTF
+UVNNhan_R.TTF
+UVNNhanNang_I.TTF
+UVNNhanNang_R.TTF
+UVNNhatKy_B.TTF
+UVNNhatKy_BI.TTF
+UVNNhatKy_I.TTF
+UVNNhatKy_R.TTF
+UVNPhuongTay.TTF
+UVNSachVo_B.TTF
+UVNSachVo_BI.TTF
+UVNSachVo_I.TTF
+UVNSachVo_R.TTF
+UVNSaigon_B.TTF
+UVNSaigon_BI.TTF
+UVNSaigon_I.TTF
+UVNSaigon_R.TTF
+UVNSangSong_B.TTF
+UVNSangSong_N.TTF
+UVNSangSong_R.TTF
+UVNThangGieng_I.TTF
+UVNThangGieng_R.TTF
+UVNThangVu.TTF
+UVNThanhBinh.TTF
+UVNThanhPho_B.TTF
+UVNThanhPho_R.TTF
+UVNThanhPhoNang.TTF
+UVNThayGiao_B.TTF
+UVNThayGiao_BI.TTF
+UVNThayGiao_I.TTF
+UVNThayGiao_R.TTF
+UVNThayGiaoNang_I.TTF
+UVNThayGiaoNang_R.TTF
+UVNThayGiaoNhe_I.TTF
+UVNThayGiaoNhe_R.TTF
+UVNThoiDai1.TTF
+UVNThoiDai2.TTF
+UVNThoiNay_B.TTF
+UVNThoiNay_BI.TTF
+UVNThoiNay_I.TTF
+UVNThoiNay_R.TTF
+UVNThoiNayNang_I.TTF
+UVNThoiNayNang_R.TTF
+UVNThuTu.TTF
+UVNTinTuc_B.TTF
+UVNTinTuc_BI.TTF
+UVNTinTuc_I.TTF
+UVNTinTuc_R.TTF
+UVNTinTucHep_B.TTF
+UVNTinTucHep_BI.TTF
+UVNTinTucHep_I.TTF
+UVNTinTucHep_R.TTF
+UVNTinTucHepThem_B.TTF
+UVNTinTucHepThem_R.TTF
+UVNTinTucNhe_I.TTF
+UVNTinTucNhe_R.TTF
+UVNVan_B.TTF
+UVNVan_R.TTF
+UVNVanChuong_B.TTF
+UVNVanChuong_I.TTF
+UVNVanChuong_R.TTF
+UVNVanChuongNang_R.TTF
+UVNVienDu.TTF
+UVNVietSach_B.TTF
+UVNVietSach_BI.TTF
+UVNVietSach_I.TTF
+UVNVietSach_R.TTF
+UVNViVi.TTF
+UVNVungTau.TTF
 V_HVB2.SHX
 V3D.TTF
 V3D2.TTF
@@ -6633,7 +7145,6 @@ VNBRO1.TTF
 VNBRUS.SHX
 VNBRUS_.TTF
 VNBRUS__.TTF
-VNBRUS1.SHX
 VNBRUS2.SHX
 VNBRUSH.TTF
 VNBRUSR2.PFB
@@ -6994,6 +7505,36 @@ VNHV.SHX
 VNHV01.SHX
 VNHVB2.PFB
 VNHVB2.SHX
+Vni 01 LinotypeZapfino one.ttf
+Vni 02 LinotypeZapfino two.ttf
+Vni 03 LinotypeZapfino Three.ttf
+Vni 04 LinotypeZapfino four.ttf
+Vni 05 SpringtimeFlourish.ttf
+VNI 06 Springtime.ttf
+Vni 07 WaterBrushROB.ttf
+VNI 08 Springtime2.ttf
+VNI 09 Baroque.ttf
+Vni 10 Swan Song.ttf
+Vni 11 Springtime2.ttf
+Vni 12 Alex.ttf
+Vni 13 Annabelle.ttf
+Vni 14 AlexBrush.ttf
+VNI 15 Chops Normal.ttf
+Vni 16 Machina.ttf
+VNI 17 Sandy.ttf
+Vni 18 Mandalay.ttf
+Vni 19 Walt Disney.ttf
+Vni 20 University.ttf
+Vni 21 Scrap Cursive.ttf
+VNI 22 JackieO.ttf
+Vni 23 Qwigley.ttf
+VNI 24 Love.ttf
+Vni 25 Ambiance BT Swash.ttf
+VNI 26 Saliere.ttf
+VNI 27 Bendigo.ttf
+VNI 28 Zirkon.ttf
+Vni 29 BrushMe.ttf
+Vni 30 Shishoni Brush.ttf
 vni.common.VALLERGO.ttf
 vni.common.VARISON.ttf
 vni.common.VHELVCI.ttf
@@ -8168,6 +8709,8 @@ witzworxregular.ttf
 WNTDPSTR.TTF
 woodtypd.ttf
 WORKING.shx
+WorkSans[wght].ttf
+WorkSans-Italic[wght].ttf
 writers_bold.TTF
 writers_condensed.TTF
 writers_original.TTF
@@ -8298,6 +8841,8 @@ Y-ARAB1B.SHX
 year2000boogie.ttf
 YELLOW.SHX
 yikes.ttf
+yjkchn.shx
+yjkeng.shx
 youngzaphod.ttf
 YSZN.SHX
 YuGothB.ttc
@@ -8328,6 +8873,8 @@ ZillaSlab-SemiBold.ttf
 ZillaSlab-SemiBoldItalic.ttf
 ZITGRAFF.TTF
 zitz.ttf
+zjdz.shx
+zjdz-s.shx
 zodiastic.ttf
 ZOINKFAT.TTF
 ZONKER_H.TTF
@@ -8337,3 +8884,7 @@ ZURCHKE.TTF
 ZWAdobeF.TTF
 ZZ-ARAB.SHX
 zzd.SHX
+ГОСТ прямой.shx
+Гост прямойbig.shx
+шрифт Д-431.shx
+шрифт.shx
