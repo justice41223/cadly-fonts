@@ -3299,6 +3299,7 @@ HLinetype.shx
 HLI-O.SHX
 HLI-T.SHX
 HL-LD.SHX
+HLT Windsong.ttf
 HLTR.SHX
 HLV.SHX
 HLV_BP.SHX
@@ -7359,6 +7360,48 @@ VKUNM.TTF
 VKUNM__0.TTF
 VKUNN.TTF
 VKUNN__0.TTF
+VL_Adriane Swash.otf
+VL_Agile Script Calligraphy.otf
+VL_Agile Script Line.otf
+VL_Ample-Medium.otf
+VL_Ample-Regular3.otf
+VL_Amtenar.otf
+VL_Andalusia.otf
+VL_Angelline.otf
+VL_Authentica Regular.otf
+VL_Awesome Display Typeface.otf
+VL_Biscotti_Regular.otf
+VL_Biscotti-Bold.otf
+VL_BoosterNextFY-Black.otf
+VL_BoosterNextFY-Thin.otf
+VL_Capsuula.otf
+VL_CariocaScriptProFlourishes.otf
+VL_CariocaScriptPro-Regular.otf
+VL_Chateaux des Olives.otf
+VL_Cimochi.otf
+VL_Cinderella.otf
+VL_Daniela Script.otf
+VL_Dekar Light.otf
+VL_Dekar.otf
+VL_Delicatta.otf
+VL_dooType - Encorpada Classic.otf
+VL_Dorayaki.otf
+VL_DulcePro.otf
+VL_Egorycastle.otf
+VL_Fameliya.otf
+VL_Gardeny.otf
+VL_Glober Book.otf
+VL_Glober SemiBold Free.otf
+VL_Glober Thin Free.otf
+VL_Golf.otf
+VL_GreatVibes-Regular.otf
+VL_Guadalupe Pro_2.otf
+VL_HapnaMono-Light.otf
+VL_HeroeMonolineBigPro.otf
+VL_Hillda.otf
+VL_Imogen Agnes Swash.otf
+VL_Imogen Agnes.otf
+VL_Kaleko 105 Round Bold.otf
 VLADIMIR.TTF
 VLAOS_.TTF
 VLBRIGHB.TTF
