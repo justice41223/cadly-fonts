@@ -3326,6 +3326,31 @@ HLT Fitigraf_s.ttf
 HLT FoglihtenNo04.ttf
 HLT Geotica 2012.ttf
 HLT GiddyupStd.ttf
+HLT Gioviale.ttf
+HLT GulyesaScript.ttf
+HLT Hummingbird.ttf
+HLT JaneAust.ttf
+HLT jojo.ttf
+HLT Look Up.ttf
+HLT Mirella Script.ttf
+HLT Mishka.ttf
+HLT Motion Picture.ttf
+HLT Narziss Swirls.ttf
+HLT Oliver tue les fourmis.ttf
+HLT Penabico.ttf
+HLT PepitaScript.ttf
+HLT PFChampionScriptPro-Regular.ttf
+HLT Poem Script Pro.ttf
+HLT Red Wagon Stylistic.ttf
+HLT Rolling Pen.ttf
+HLT SailAway.ttf
+HLT Signerica_Medium.ttf
+HLT Sneaker Script.ttf
+HLT Society.ttf
+HLT Stringbead.ttf
+HLT Suave Script.ttf
+HLT Sudestada.ttf
+HLT Vindeco.ttf
 HLT Windsong.ttf
 HLTR.SHX
 HLV.SHX
@@ -6245,6 +6270,31 @@ utsaahbi.ttf
 utsaahi.ttf
 uv-abc.shx
 UV-abc-1.shx
+UVF - Kizo.ttf
+UVF All Over Again.ttf
+UVF Amplify.otf
+UVF Angelic War.ttf
+UVF AnnaClara - VietDesigner.net.ttf
+UVF Aphrodite Pro.ttf
+UVF Aria Pro Italic.otf
+UVF Aria Pro.otf
+UVF Assassin.ttf
+UVF Barmbrack.ttf
+UVF BellissimaScriptPro.otf
+UVF Blenda Script.ttf
+UVF Blueberry Muffins.ttf
+UVF Bourgeois-Med.ttf
+UVF BreathePro.otf
+UVF Candlescript Pro.otf
+UVF Caviar Dreams Bold.ttf
+UVF Centeria.ttf
+UVF ChefScript-Pro.otf
+UVF Colaborate Medium.ttf
+UVF Daddys Girl.ttf
+UVF DartangnonStd.otf
+UVF DK Crayon Crumble.ttf
+UVF Fairview.ttf
+UVF FilmotypeHoney.otf
 UVNAiCap_B.TTF
 UVNAiCap_R.TTF
 UVNAiCapNang.TTF
