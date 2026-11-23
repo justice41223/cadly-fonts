@@ -211,6 +211,12 @@ ae2.shx
 aehalf.shx
 AESFHAND.SHX
 Af.shx
+Aga.Silva_Roicamonta.Basic.Italic.otf
+Aga.Silva_Roicamonta.Basic.otf
+Aga.Silva_Roicamonta.Curly.Italic.otf
+Aga.Silva_Roicamonta.Curly.otf
+Aga.Silva_Roicamonta.Italic.otf
+Aga.Silva_Roicamonta.otf
 AGAalenBold Roman.shx
 AGaramondPro-Bold.otf
 AGaramondPro-BoldItalic.otf
@@ -300,6 +306,7 @@ Alphabet.ttf
 ALPHMA__.TTF
 ALPS.PFB
 ALPS.SHX
+ALSSyysScript Vi#U1ec7t ho .ttf
 ALTcalis.ttf
 ALTdragon.ttf
 Alumni.shx
@@ -337,6 +344,7 @@ A-MISR.SHX
 AMRTEXTN.TTF
 AMRTYPEN.TTF
 AMSLAN.TTF
+amsterdam.ttf
 A-NASHKA.SHX
 ANASWFTE.TTF
 ANCSTRNL.SHX
@@ -1215,6 +1223,8 @@ braggado.ttf
 brainlessthoughts.ttf
 BRANDY_H.TTF
 brass_monkey.ttf
+BreathePro.otf
+BreeSerif.otf
 BREMENB.TTF
 BRETT_H.TTF
 BRINGTHA.TTF
@@ -1499,12 +1509,15 @@ COBO____.ttf
 COBT____.PFB
 COBT____.PFM
 COBT____.SHX
+CODE Bold.otf
+CODE Light.otf
 CODE3_9.TTF
 CODEUSPS.TTF
 COF.SHX
 COF-O.SHX
 COF-T.SHX
 COGOAID.SHX
+Collected.ttf
 COLONNA.TTF
 COLOR.SHX
 colourba.ttf
@@ -6295,6 +6308,43 @@ UVF DartangnonStd.otf
 UVF DK Crayon Crumble.ttf
 UVF Fairview.ttf
 UVF FilmotypeHoney.otf
+UVF Finura-Roman.otf
+UVF Frosting-for-Breakfast_regular.otf
+UVF Geotica 2012.ttf
+UVF Guadalupe Pro Gota Italic.otf
+UVF Haymaker.ttf
+UVF Hypografic.ttf
+UVF Jellyka Endless Voyage.ttf
+UVF Kaileen.ttf
+UVF KozmeticaScript.otf
+UVF Legendaria.otf
+UVF LegendariaSwashes1.otf
+UVF LH Line1 Sans Thin.ttf
+UVF LoveStory.ttf
+UVF LP Bambus Light.ttf
+UVF Memoir.otf
+UVF Metroscript.ttf
+UVF Mishka.ttf
+UVF MussicaSwash.ttf
+UVF Narziss-Drops.ttf
+UVF Pistilli-Roman.ttf
+UVF Porcelain.ttf
+UVF Quattrocento-Regular.ttf
+UVF Rapture Heavenly.ttf
+UVF Remachine Script.ttf
+UVF Salome-Regular.otf
+UVF Shipped Goods 1.ttf
+UVF Showcase Script.otf
+UVF SlimTony.ttf
+UVF Sneaker Script.ttf
+UVF SouciSansNF.ttf
+UVF Sreda.ttf
+UVF Typewriterhand.ttf
+UVF TypoSlabserif-Light.ttf
+UVF Valentine - VietDesigner.net.ttf
+UVF Voyage Regular.otf
+UVF WishesScript Pro Display.otf
+UVF You Make Me Smile.ttf
 UVNAiCap_B.TTF
 UVNAiCap_R.TTF
 UVNAiCapNang.TTF
