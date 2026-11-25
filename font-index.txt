@@ -1778,6 +1778,7 @@ Decor.shx
 degrassi.ttf
 DEREK_H.TTF
 DESDEMON.TTF
+DESIB___.otf
 dgnlstyle.shx
 dgnlstyle-duongdc.shx
 dgnlstyle-ht1_5.shx
@@ -1839,6 +1840,7 @@ Dosis-SemiBold.ttf
 DOTFONT.SHX
 DOTU.SHX
 DOYLE.PFB
+DP_Didot-HTF-M96-Medium.otf
 DRAIMAN1.SHX
 DRAKON.SHX
 dreadlox.ttf
@@ -1861,6 +1863,7 @@ DTCAPSOF.TTF
 DTCOOPEB.TTF
 DTFRNKST.TTF
 DTFUJN.TTF
+DTH MdeSade.otf
 DTHELCBI.TTF
 DTHELVBI.TTF
 DTHELVCB.TTF
@@ -1897,6 +1900,7 @@ dutchb.ttf
 dutchbi.ttf
 dutcheb.ttf
 dutchi.ttf
+DVF Siam.ttf
 DXF.SHX
 DXT.SHX
 E111VIVA.TTF
@@ -2073,6 +2077,7 @@ extslim2.shx
 EYEGLASS.PFB
 EYEGLASS.SHX
 F.SHX
+facebook-letter-faces.otf
 facerg_.TTF
 facerg__.TTF
 FACK.TTF
@@ -2103,6 +2108,38 @@ Fiddums Family.ttf
 fillmore.ttf
 FIN.SHX
 FINEHAND.TTF
+FiraSans-Bold.otf
+FiraSans-BoldItalic.otf
+FiraSans-Book.otf
+FiraSans-BookItalic.otf
+FiraSans-Eight.otf
+FiraSans-EightItalic.otf
+FiraSans-ExtraBold.otf
+FiraSans-ExtraBoldItalic.otf
+FiraSans-ExtraLight.otf
+FiraSans-ExtraLightItalic.otf
+FiraSans-Four.otf
+FiraSans-FourItalic.otf
+FiraSans-Hair.otf
+FiraSans-HairItalic.otf
+FiraSans-Heavy.otf
+FiraSans-HeavyItalic.otf
+FiraSans-Italic.otf
+FiraSans-Light.otf
+FiraSans-LightItalic.otf
+FiraSans-Medium.otf
+FiraSans-MediumItalic.otf
+FiraSans-Regular.otf
+FiraSans-SemiBold.otf
+FiraSans-SemiBoldItalic.otf
+FiraSans-Thin.otf
+FiraSans-ThinItalic.otf
+FiraSans-Two.otf
+FiraSans-TwoItalic.otf
+FiraSans-Ultra.otf
+FiraSans-UltraItalic.otf
+FiraSans-UltraLight.otf
+FiraSans-UltraLightItalic.otf
 firewood.ttf
 FIRST.TTF
 Firstc.ttf
@@ -2126,6 +2163,7 @@ FLORA_H.TTF
 floral.ttf
 flowdeco.ttf
 floydian.ttf
+FM Christmas 3.0.otf
 FMISR.SHX
 FMISR-SL.SHX
 FmSimple.shx
@@ -2194,6 +2232,7 @@ Font - TrueType - Arial Special G2 Italic.ttf
 Font - TrueType - Arial Special G2.ttf
 Font - TrueType - Arial.ttf
 Font - TrueType - Aurora Bold Condensed BT.ttf
+Font - TrueType - Baker Signet BT.ttf
 Font - TrueType - Balloon Bold BT.ttf
 Font - TrueType - Balloon Extra Bold BT.ttf
 Font - TrueType - Balloon Light BT.ttf
@@ -2779,6 +2818,7 @@ FRADMCN.TTF
 FRADMIT.TTF
 FRAHV.TTF
 FRAHVIT.TTF
+FRAKS___.ttf
 framd.ttf
 FRAMDCN.TTF
 framdit.ttf
@@ -2837,6 +2877,7 @@ FTC-T.SHX
 FTLTLT.TTF
 fujiyalc.ttf
 fujiyama.ttf
+Full Circle.ttf
 funkymuskrat.ttf
 FUNSTUF.TTF
 FUNSTUFB.TTF
@@ -3099,6 +3140,7 @@ GUOMAN.SHX
 HADONG.TTF
 HAIPHONG.TTF
 HAKI.SHX
+halloween_voysla.otf
 Halo Outline.ttf
 Halo.ttf
 HALONGB.TTF
@@ -3138,6 +3180,7 @@ HARNGTON.TTF
 harpoon.ttf
 HARPOONU.SHX
 harringt.ttf
+Harry hungdm92.ttf
 HASP.SHX
 HASSAN.SHX
 HASSANO.SHX
@@ -3488,6 +3531,7 @@ HYGIENE.TTF
 HYH__.TTF
 HYH___11.TTF
 hypertension.ttf
+HY견고딕.TTF
 HZ.SHX
 HZAID.SHX
 hzdx.shx
@@ -3676,6 +3720,7 @@ JOURNALS.SHX
 JPGENE1.TTF
 JUICE___.TTF
 JULIE_H.TTF
+JuliusSansOne-Regular-vi.ttf
 JungleBold.ttf
 JungleClean.ttf
 JungleRuff.ttf
@@ -3936,12 +3981,17 @@ LITHOGRL.TTF
 LithosPro-Black.otf
 LithosPro-Regular.otf
 LITHXB.TTF
+Little Daisy.ttf
+Little Days Alt.ttf
+Little days.ttf
+LJ Design Studios IS.ttf
 LLOYD_H.TTF
 lockergnome.ttf
 LOGOFONT.TTF
 LOGOS1.TTF
 LOGOS2.TTF
 LOKICOLA.TTF
+London Vi#U1ec7t ho .ttf
 LOONEYTN.PFB
 lousy.ttf
 LOW_RES_FILLED.shx
